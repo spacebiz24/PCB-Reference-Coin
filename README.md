@@ -1,4 +1,4 @@
-# PCB-Ruler-Coin
+# PCB Reference Coin
 
 > [!WARNING]
 > Work in Progress
