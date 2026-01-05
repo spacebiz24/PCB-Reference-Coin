@@ -1,4 +1,7 @@
 # PCB Reference Coin
+This project is blah, blah, blah...
+___
+<img src="Images/F.Cu View.png" width="640">
 
 > [!WARNING]
 > Work in Progress
